@@ -28,5 +28,5 @@ mv (move file)
 rm (remove file)
 rm -r (remove directory)
 rm -ri (prompt for removal)
-
+hidden files being with '.'
 git: working directory, staging area, repo
