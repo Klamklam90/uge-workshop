@@ -5,3 +5,4 @@ master moves with each commit
 git add moves from wd to staging
 commit moves from staging to repo.
 git status to check up every so often
+-u 
