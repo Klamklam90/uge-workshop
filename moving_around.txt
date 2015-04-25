@@ -1,0 +1,25 @@
+cd ~ (this is to get back to my home directory)
+ls (this will list out all the directories folling the one i am in)
+cd /tmp
+history > myHistory
+history | less (gives me my history, but scrollable and way better than 'more')
+history 1
+history 10 ( use head)
+cd a
+pwd ( print working directory)
+~
+../.. (this is to go up the previous directory. two times)
+cd /tmp/my\ folder/
+cd temp
+cd my\ folder
+history -c
+-c
+mkdir my\ folder (mkdir is make new directory)
+cd /User/KevinLam
+man ls ( man is to open up the manual showing commands)
+/
+a
+ls -tl 
+ls -t (-t is to list them in order of last used)
+ls -l(-l is long)
+-n (takes perameters)
